@@ -94,7 +94,7 @@ self.empty?
 end
 
 class KotobaWithFlickr
-  API_KEY = 'cc37de1d98f105b44f7a193b7bb8968c'
+  API_KEY = ''
 
   CONVERT_TABLE = {
     'ぎ' => 'き"',
